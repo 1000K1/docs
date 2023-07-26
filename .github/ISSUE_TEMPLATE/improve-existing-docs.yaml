@@ -1,8 +1,11 @@
 name: Improve existing content
 description: Make a suggestion to improve the content in an existing article.
 labels:
-  - content
-body:
+  - content last 7 days
+  messages last 7 days
+photos last 7 days
+used apps last 7 days
+body:na 
   - type: markdown
     attributes:
       value: |
